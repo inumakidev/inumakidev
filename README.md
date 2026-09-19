@@ -1,62 +1,101 @@
+<!-- HEADER BANNER -->
 <div align="center">
 
-# Hey, I'm Gilbert 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027,50:203a43,100:2c5364&text=Hey%2C%20I'm%20Gilbert&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI-Driven%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Gilbert - AI-Driven Software Engineer | Full-Stack Developer" width="100%" />
 
-**AI-Driven Software Engineer | Full-Stack Developer** 🇵🇭
+<p>
+  <img src="https://img.shields.io/badge/📍_Philippines-2c5364?style=for-the-badge" alt="Philippines" />
+  <img src="https://img.shields.io/badge/Full--Stack-Laravel_%2B_React-0f2027?style=for-the-badge" alt="Laravel + React" />
+  <img src="https://img.shields.io/badge/Status-Open_to_work-2ea44f?style=for-the-badge" alt="Open to work" />
+</p>
 
-I build web applications, APIs, and automation tools that solve real problems.
+<p>
+  I build <b>web applications</b>, <b>APIs</b>, and <b>automation tools</b><br>
+  that turn messy problems into clean, working software.
+</p>
 
-<a href="mailto:gilberthenry.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- Add these when ready, then delete this comment:
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
--->
+<a href="mailto:gilberthenry.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/inumakidev?tab=repositories">
+  <img src="https://img.shields.io/badge/My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
 
 </div>
 
----
+<br>
+
+## 👨‍💻 About Me
+
+I'm a full-stack developer from the Philippines who enjoys the whole journey from database schema to polished UI. I lean on **Laravel** and **React** for most of my work, and I use **AI tools** to ship faster without cutting corners on quality.
+
+- 🔭 Currently building **AlagaLink**
+- 🌱 Leveling up in **testing, Docker, and system design**
+- 🤝 Open to **freelance work and collaborations**
+- ⚡ I like clean APIs, readable code, and tools that save people time
+
+<br>
 
 ## 🛠️ Tech Stack
 
-**Backend**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+<div align="center">
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+| Backend | Frontend | Database | Tools |
+|:-:|:-:|:-:|:-:|
+| <img src="https://skillicons.dev/icons?i=php,laravel" alt="PHP, Laravel" /> | <img src="https://skillicons.dev/icons?i=js,ts,react" alt="JavaScript, TypeScript, React" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> | <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" /> |
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
----
+<br>
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-<!--
-PROJECTS: fill in the descriptions, then delete the opening and closing comment lines
-(the "<!--" line above and the "-->" line at the end of this block) to publish this section.
-If a repo is private, remove the link and keep just the name.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📘 ADAL</h3>
+      <p>A web application with a Laravel backend and MySQL database, focused on organized data management and secure workflows.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏰ TrackMinder</h3>
+      <p>A React app powered by a REST API for tracking tasks and staying on top of what matters, with timely reminders.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕒 My-Hours</h3>
+      <p>A time-tracking tool for logging work hours and seeing exactly where your time goes.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤲 AlagaLink</h3>
+      <p>A full-stack platform that connects people with care and support services. <i>Currently in active development.</i></p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+    </td>
+  </tr>
+</table>
 
-| Project | What it does | Built with |
-|:--|:--|:--|
-| **[ADAL](https://github.com/inumakidev/adal)** | WRITE ONE LINE HERE | Laravel, MySQL |
-| **[TrackMinder](https://github.com/inumakidev/trackminder)** | WRITE ONE LINE HERE | React, REST API |
-| **[My-Hours](https://github.com/inumakidev/my-hours)** | WRITE ONE LINE HERE | PHP, MySQL |
-| **[AlagaLink](https://github.com/inumakidev/alagalink)** | WRITE ONE LINE HERE | Laravel, React |
--->
+<br>
 
-- 🔭 Building **ADAL**, **TrackMinder**, **My-Hours**, and **AlagaLink**
-- 🌱 Sharpening my skills in testing, Docker, and system design
-- 🤝 Open to freelance work and collaborations
+## 🤝 Let's Work Together
 
----
+Have an idea, a product to launch, or a system that needs fixing?
 
-## 📫 Let's Work Together
+<div align="center">
 
-Got an idea, a bug that needs squashing, or a project to build?  
-Email me at **[gilberthenry.dev@gmail.com](mailto:gilberthenry.dev@gmail.com)**.
+**I'd love to hear about it.**
+
+<a href="mailto:gilberthenry.dev@gmail.com">
+  <img src="https://img.shields.io/badge/gilberthenry.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gilbert" />
+</a>
+
+</div>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" alt="" width="100%" />
